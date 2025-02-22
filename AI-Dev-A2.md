@@ -49,3 +49,9 @@ This document outlines the functional and system requirements for an AI training
 2. Compare bias detection results with human judgment.
 3. Test AI models before and after bias correction for fairness improvements.
 
+#### Preliminary Tasks
+1. Identify common bias patterns in AI datasets.
+2. Implement an initial bias detection algorithm.
+3. Conduct expert reviews to validate flagged biases.
+4. Develop an automated reporting system for bias evaluation.
+
