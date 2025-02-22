@@ -101,4 +101,16 @@ This document outlines the functional and system requirements for an AI training
 ### Requirement 4: Explainable AI Model Predictions
 **As an AI Developer, I want an explainability module for AI model predictions so that I can understand and interpret model behavior effectively.**
 
+#### Assumptions & Validation
+**Assumptions:**
+- AI models require interpretability for debugging and fairness assessment.
+- Users need explanations of AI decisions to build trust.
+
+**Validation:**
+1. Compare model performance with and without explainability features.
+2. Conduct user testing to evaluate the clarity of explanations.
+3. Benchmark model interpretability against industry standards.
+
+
+
 
