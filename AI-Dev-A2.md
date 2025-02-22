@@ -123,6 +123,12 @@ This document outlines the functional and system requirements for an AI training
 3. The system must allow users to explore the reasoning behind model decisions.
 4. The system should offer explainability metrics for evaluation.
 
+#### System Requirements
+1. The system must support scalable computation for real-time explanations.
+2. The system should integrate with existing AI models without major modifications.
+3. The system must allow exporting explanations in various formats.
+4. The system should provide access control to limit explanation visibility to authorized users.
+
 
 
 
