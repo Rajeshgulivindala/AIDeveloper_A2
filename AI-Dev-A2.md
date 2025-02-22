@@ -55,3 +55,8 @@ This document outlines the functional and system requirements for an AI training
 3. Conduct expert reviews to validate flagged biases.
 4. Develop an automated reporting system for bias evaluation.
 
+#### Functional Requirements
+1. The system must scan training data for biases.
+2. The system should allow users to review and correct flagged biases.
+3. The system must provide bias impact analysis reports.
+4. The system should integrate with data preprocessing workflows.
