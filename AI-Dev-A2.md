@@ -29,3 +29,9 @@ This document outlines the functional and system requirements for an AI training
 2. The system should allow manual override for reclassification.
 3. The system should maintain a categorized dataset repository.
 4. The system should provide an analytics dashboard for evaluating categorization effectiveness.
+
+#### System Requirements
+1. The system must support scalable data storage for categorized datasets.
+2. The system should integrate with existing AI training pipelines.
+3. The system must allow secure role-based access to categorized datasets.
+4. The system should support API access for third-party integrations.
