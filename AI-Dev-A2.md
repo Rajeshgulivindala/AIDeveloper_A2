@@ -60,3 +60,10 @@ This document outlines the functional and system requirements for an AI training
 2. The system should allow users to review and correct flagged biases.
 3. The system must provide bias impact analysis reports.
 4. The system should integrate with data preprocessing workflows.
+
+#### System Requirements
+1. The system must support scalable computational resources for bias analysis.
+2. The system should allow integration with third-party bias detection tools.
+3. The system must store historical bias reports for auditing.
+4. The system should implement role-based access control for reviewing flagged biases.
+
