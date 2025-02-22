@@ -7,3 +7,13 @@ This document outlines the functional and system requirements for an AI training
 
 ### Requirement 1: Categorized Training Data
 **As an AI Developer, I want to categorize training data into distinct topics and subtopics so that I can improve the relevance and precision of AI model training.**
+
+#### Assumptions & Validation
+**Assumptions:**
+- Well-categorized training data enhances model learning efficiency.
+- Manual and automated classification methods can work together.
+
+**Validation:**
+1. Check if the categorization improves model performance over multiple training iterations.
+2. Conduct expert review sessions to validate topic categorization accuracy.
+3. Compare models trained with and without categorized data to measure impact.
