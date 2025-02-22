@@ -92,4 +92,10 @@ This document outlines the functional and system requirements for an AI training
 3. The system should allow manual override for data corrections.
 4. The system must support different cleaning methods based on dataset type.
 
+#### System Requirements
+1. The system must support scalable storage for cleaned and raw datasets.
+2. The system should allow batch processing for large datasets.
+3. The system must integrate with existing AI model training workflows.
+4. The system should provide an interface for reviewing and adjusting cleaning rules.
+
 
