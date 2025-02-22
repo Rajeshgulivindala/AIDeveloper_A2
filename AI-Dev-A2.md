@@ -17,3 +17,9 @@ This document outlines the functional and system requirements for an AI training
 1. Check if the categorization improves model performance over multiple training iterations.
 2. Conduct expert review sessions to validate topic categorization accuracy.
 3. Compare models trained with and without categorized data to measure impact.
+
+#### Preliminary Tasks
+1. Define categories and subcategories relevant to training data.
+2. Implement an initial classification algorithm for automation.
+3. Conduct manual review to refine categorization accuracy.
+4. Test model performance with categorized vs. non-categorized data.
