@@ -69,3 +69,15 @@ This document outlines the functional and system requirements for an AI training
 
 ### Requirement 3: Automated Data Cleaning
 **As an AI Developer, I want an automated data cleaning pipeline so that I can preprocess training data efficiently and improve model accuracy.**
+
+#### Assumptions & Validation
+**Assumptions:**
+- Raw training data contains inconsistencies, missing values, and errors.
+- Automated cleaning improves data quality without significant manual intervention.
+
+**Validation:**
+1. Compare AI model performance before and after data cleaning.
+2. Validate cleaned datasets with domain experts.
+3. Assess the effectiveness of different cleaning techniques on training data.
+
+
