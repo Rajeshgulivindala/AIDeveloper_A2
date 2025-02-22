@@ -86,4 +86,10 @@ This document outlines the functional and system requirements for an AI training
 3. Evaluate the effectiveness of cleaning algorithms.
 4. Integrate data cleaning with training data pipelines.
 
+#### Functional Requirements
+1. The system must automatically detect and correct data inconsistencies.
+2. The system should log all cleaning actions for auditing purposes.
+3. The system should allow manual override for data corrections.
+4. The system must support different cleaning methods based on dataset type.
+
 
