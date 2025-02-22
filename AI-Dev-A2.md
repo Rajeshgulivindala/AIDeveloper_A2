@@ -98,4 +98,7 @@ This document outlines the functional and system requirements for an AI training
 3. The system must integrate with existing AI model training workflows.
 4. The system should provide an interface for reviewing and adjusting cleaning rules.
 
+### Requirement 4: Explainable AI Model Predictions
+**As an AI Developer, I want an explainability module for AI model predictions so that I can understand and interpret model behavior effectively.**
+
 
