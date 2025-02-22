@@ -38,3 +38,14 @@ This document outlines the functional and system requirements for an AI training
 
 ### Requirement 2: Bias Detection and Mitigation
 **As an AI Developer, I want an automated bias detection system in place so that I can ensure fairness and reduce unwanted biases in AI models.**
+
+#### Assumptions & Validation
+**Assumptions:**
+- Training data contains potential biases that need detection.
+- Reducing bias improves AI model fairness and reliability.
+
+**Validation:**
+1. Analyze existing training datasets for known biases.
+2. Compare bias detection results with human judgment.
+3. Test AI models before and after bias correction for fairness improvements.
+
