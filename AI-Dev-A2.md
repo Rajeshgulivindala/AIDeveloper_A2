@@ -129,6 +129,8 @@ This document outlines the functional and system requirements for an AI training
 3. The system must allow exporting explanations in various formats.
 4. The system should provide access control to limit explanation visibility to authorized users.
 
+## Conclusion
+This document defines the necessary user requirements for AI training data projects, ensuring categorized inquiries, bias mitigation, data cleaning, and explainability. The outlined assumptions, validation strategies, and structured tasks support efficient AI model development and enhancement.
 
 
 
