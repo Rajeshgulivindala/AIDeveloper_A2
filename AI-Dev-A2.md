@@ -23,3 +23,9 @@ This document outlines the functional and system requirements for an AI training
 2. Implement an initial classification algorithm for automation.
 3. Conduct manual review to refine categorization accuracy.
 4. Test model performance with categorized vs. non-categorized data.
+
+#### Functional Requirements
+1. The system must allow automatic categorization of training data.
+2. The system should allow manual override for reclassification.
+3. The system should maintain a categorized dataset repository.
+4. The system should provide an analytics dashboard for evaluating categorization effectiveness.
