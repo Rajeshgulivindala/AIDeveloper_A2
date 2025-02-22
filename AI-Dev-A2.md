@@ -111,6 +111,12 @@ This document outlines the functional and system requirements for an AI training
 2. Conduct user testing to evaluate the clarity of explanations.
 3. Benchmark model interpretability against industry standards.
 
+#### Preliminary Tasks
+1. Research and implement existing explainability frameworks.
+2. Develop initial prototype for generating explanations.
+3. Evaluate effectiveness of explanations using case studies.
+4. Integrate explainability module into model inference pipeline.
+
 
 
 
