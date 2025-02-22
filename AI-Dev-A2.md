@@ -117,6 +117,12 @@ This document outlines the functional and system requirements for an AI training
 3. Evaluate effectiveness of explanations using case studies.
 4. Integrate explainability module into model inference pipeline.
 
+#### Functional Requirements
+1. The system must generate human-readable explanations for AI predictions.
+2. The system should provide multiple explanation formats (graphs, text summaries, heatmaps, etc.).
+3. The system must allow users to explore the reasoning behind model decisions.
+4. The system should offer explainability metrics for evaluation.
+
 
 
 
