@@ -35,3 +35,6 @@ This document outlines the functional and system requirements for an AI training
 2. The system should integrate with existing AI training pipelines.
 3. The system must allow secure role-based access to categorized datasets.
 4. The system should support API access for third-party integrations.
+
+### Requirement 2: Bias Detection and Mitigation
+**As an AI Developer, I want an automated bias detection system in place so that I can ensure fairness and reduce unwanted biases in AI models.**
